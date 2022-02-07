@@ -3,6 +3,7 @@
 
 <h3>Note Keeping
   
+  
 KeepNote: http://keepnote.org/
 
 CherryTree - https://www.giuspen.com/cherrytree/
@@ -16,6 +17,8 @@ OneNote - https://onenote.com/
 Greenshot - https://getgreenshot.org/
 
 Flameshot - https://github.com/flameshot-org/flameshot
+  
+  
 
 Sock Puppets
 Intro to Creating an Effective Sock Puppet (wayback archive): https://web.archive.org/web/20210307173507/https://jakecreps.com/sock-puppets/
@@ -29,6 +32,8 @@ Fake Name Generator - https://www.fakenamegenerator.com/
 This Person Does not Exist - https://www.thispersondoesnotexist.com/
 
 Privacy.com - https://privacy.com/join/LADFC *$5 credit given on signup
+  
+  
 
 Search Engine OSINT
 Google - https://www.google.com/
@@ -48,6 +53,9 @@ DuckDuckGo - https://duckduckgo.com/
 DuckDuckGo Search Guide - https://help.duckduckgo.com/duckduckgo-help-pages/results/syntax/
 
 Baidu - http://www.baidu.com/
+  
+  
+  
 
 Image OSINT
 Google Image Search - https://images.google.com
@@ -56,6 +64,8 @@ Yandex - https://yandex.com
 
 TinEye - https://tineye.com
 
+  
+  
 Email OSINT
 Hunter.io - https://hunter.io/
 
@@ -69,6 +79,8 @@ Email Checker - https://email-checker.net/validate
 
 Clearbit Connect - https://chrome.google.com/webstore/detail/clearbit-connect-supercha/pmnhcgfcafcnkbengdcanjablaabjplo?hl=en
 
+  
+  
 Password OSINT
 Dehashed - https://dehashed.com/
 
@@ -82,6 +94,8 @@ Scylla.sh - https://scylla.sh/
 
 HaveIBeenPwned - https://haveibeenpwned.com/
 
+  
+  
 Username OSINT
 NameChk - https://namechk.com/
 
@@ -89,6 +103,8 @@ WhatsMyName - https://whatsmyname.app/
 
 NameCheckup - https://namecheckup.com/
 
+  
+  
 People OSINT
 WhitePages - https://www.whitepages.com/
 
@@ -116,6 +132,9 @@ CallerID Test - https://calleridtest.com/
 
 Infobel - https://infobel.com/
 
+  
+  
+  
 Social Media OSINT
 Twitter Advanced Search - https://twitter.com/search-advanced
 
@@ -149,6 +168,9 @@ ImgInn - https://imginn.com/
 
 Snapchat Maps - https://map.snapchat.com
 
+  
+  
+  
 Website OSINT
 BuiltWith - https://builtwith.com/
 
@@ -176,14 +198,20 @@ Shodan - https://shodan.io
 
 Wayback Machine - https://web.archive.org/
 
+  
+  
 Business OSINT
 Open Corporates - https://opencorporates.com/
 
+  
 AI HIT - https://www.aihitdata.com/
 
 Wireless OSINT
 WiGLE - https://wigle.net/
 
+  
+  
+  
 Working with OSINT Tools
 breach-parse - https://github.com/hmaverickadams/breach-parse
 
