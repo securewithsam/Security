@@ -1,7 +1,7 @@
 # OSINT
-<h1>Open-Source-Intelligence-Tools<h1>
+Open-Source-Intelligence-Tools
 
-<h3>Note Keeping
+Note Keeping
   
   
 KeepNote: http://keepnote.org/
@@ -235,4 +235,4 @@ Alethe Denis - https://twitter.com/AletheDenis
 Joe Gray - https://twitter.com/C_3PJoe
 
 IntelTechniques - https://inteltechniques.com/
-  <h3>
+
