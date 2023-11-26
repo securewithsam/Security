@@ -15,7 +15,10 @@ sudo systemctl enable neo4j.service
 sudo systemctl start neo4j.service
 sudo systemctl status neo4j.service
 
+```
 
+#### Extract AD Data to import in BloodHound GUI
+```sh
 wget https://github.com/BloodHoundAD/BloodHound/releases/download/v4.3.1/BloodHound-linux-x64.zip
 unzip BloodHound-linux-x64.zip
 cd BloodHound-linux-x64
