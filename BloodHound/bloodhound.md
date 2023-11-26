@@ -1,4 +1,4 @@
-####How To Install and Configure Neo4j on Ubuntu 20.04
+#### How To Install and Configure Neo4j on Ubuntu 20.04
 ```sh
 sudo apt-get install openjdk-11-jdk
 curl -fsSL https://debian.neo4j.com/neotechnology.gpg.key |sudo gpg --dearmor -o /usr/share/keyrings/neo4j.gpg
