@@ -20,11 +20,12 @@ sudo systemctl status neo4j.service
 #### Extract AD Data to import in BloodHound GUI
 ```sh
 wget https://github.com/BloodHoundAD/BloodHound/releases/download/v4.3.1/BloodHound-linux-x64.zip
+sudo apt install unzip
 unzip BloodHound-linux-x64.zip
 cd BloodHound-linux-x64
 chmod +x BloodHound
-apt install python3-pip
-pip install bloodhound
+apt install python3-pip -y
+pip install bloodhound -y
 
 apt install libgtk2.0-0 -y
 sudo apt install libgtk-3-0 -y
