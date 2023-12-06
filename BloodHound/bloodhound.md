@@ -16,6 +16,24 @@ sudo systemctl start neo4j.service
 sudo systemctl status neo4j.service
 
 ```
+##### Install new4j
+```sh
+curl -fsSL https://debian.neo4j.com/neotechnology.gpg.key |sudo gpg --dearmor -o /usr/share/keyrings/neo4j.gpg
+```
+```sh
+echo "deb [signed-by=/usr/share/keyrings/neo4j.gpg] https://debian.neo4j.com stable 4.1" | sudo tee -a /etc/apt/sources.list.d/neo4j.list
+```
+sudo apt update
+```
+```sh
+sudo apt install neo4j
+```
+```sh
+sudo systemctl enable neo4j.service
+```
+```sh
+sudo systemctl start neo4j.service
+```
 
 #### Extract AD Data to import in BloodHound GUI
 ```sh
