@@ -5,6 +5,7 @@
 /wp-admin/admin-ajax.php
 /wp-content/ 
 /wp-includes/
+/xmlrpc.php
 
 ```
 
