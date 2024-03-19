@@ -1,6 +1,6 @@
 ### Backend URLS to block in CloudFlare WAF
 ```sh
-/wp-login.php
+/wp-login.php (allow only specific IPs)
 /wp-admin/   
 /wp-admin/admin-ajax.php
 /wp-content/ 
