@@ -18,7 +18,7 @@ Limit Login Attempts
 IP Restriction
 Disable Directory Indexing
 Disable XML-RPC & XML-RPC Pingback (To avoid  DDoS attacks and Bruteforce attacks)
-
+```
 Disable PHP Error Reporting 
 Add the code below to wp-config.php
 ```sh
