@@ -23,3 +23,5 @@ sudo mount /mnt/cis
 cd /mnt/cis/Assessor-Linux
 sudo ./cis-cat-centralized-ccpd.sh
 ```
+
+![image](https://github.com/securewithsam/Security/assets/85324643/d07e06d9-451b-442a-88d1-eb0e5fed2090)
