@@ -10,7 +10,16 @@ sudo nano ~/.ciscredentials
 ```
 ![image](https://github.com/securewithsam/Security/assets/85324643/bbbe2d5c-9f1e-4f24-9ce5-0130f47f1358)
 
-
-
-
-
+```sh
+nano /etc/fstab
+```
+```sh
+# Added for remote ccpd script run from mvp-infcis-01
+//mvp-infcis-01.enercare.corp/cis /mnt/cis cifs credentials=/root/.ciscredentials 0 0
+```
+![image](https://github.com/securewithsam/Security/assets/85324643/2f742056-127c-44a5-8aab-1dab7f8f5edd)
+```sh
+sudo mount /mnt/cis
+cd /mnt/cis/Assessor-Linux
+sudo ./cis-cat-centralized-ccpd.sh
+```
