@@ -8,6 +8,11 @@ sudo yum install cifs-utils
 ```sh
 sudo nano ~/.ciscredentials
 ```
+```sh
+username=test-ciscat
+password=test123
+domain=sws.corp
+```
 ![image](https://github.com/securewithsam/Security/assets/85324643/bbbe2d5c-9f1e-4f24-9ce5-0130f47f1358)
 
 ```sh
